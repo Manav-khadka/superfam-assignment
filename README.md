@@ -46,6 +46,10 @@ Once you have cloned the project, follow these steps to run it:
 - `path_provider: ^2.1.1`
 - `sqflite: ^2.3.0`
 
+## APK and AAB files
+### APK : https://drive.google.com/file/d/1WfmVw3pcpQBvyRAKT43i2j5Ga3hlFkKD/view?usp=sharing
+
+
 ## Screenshots<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/f51b8612-d597-440a-b7d5-1b4b9247c6cc" alt="Screenshot 1" style="width: 30%; height: auto;">
   <img src="https://github.com/user-attachments/assets/c370e727-55f7-49ef-b4a6-df568a9b4496" alt="Screenshot 2" style="width: 30%; height: auto;">
