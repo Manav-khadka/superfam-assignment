@@ -1,17 +1,9 @@
 # superfam_assignment
 
-A new Flutter project.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-08-05 at 22 40 37_62153f06](https://github.com/user-attachments/assets/f51b8612-d597-440a-b7d5-1b4b9247c6cc)
+![WhatsApp Image 2024-08-05 at 22 40 37_3dfa1b47](https://github.com/user-attachments/assets/c370e727-55f7-49ef-b4a6-df568a9b4496)
+![WhatsApp Image 2024-08-05 at 22 43 15_04e5fec8](https://github.com/user-attachments/assets/a8865aea-25b6-4b9a-a30c-26302dac0575)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# superfam-assignment
